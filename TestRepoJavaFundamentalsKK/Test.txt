@@ -1,3 +1,4 @@
 Some test here
 Here is added more text.
 Third row with some text.
+Fourth row with some text added.
